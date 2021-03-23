@@ -1,3 +1,6 @@
 [submodule "lib/Lib_IPME"]
 	path = lib/Lib_IPME
 	url = git@github.com:hepr/Lib_IPME.git
+[submodule "lib/repositorytest1"]
+	path = lib/repositorytest1
+	url = git@github.com:AllegreAlban/repositorytest1.git
